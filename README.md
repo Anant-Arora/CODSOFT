@@ -4,7 +4,24 @@ Welcome to my GitHub page showcasing the projects I developed during my internsh
 # Credit Card Fraud Detection
 PURPOSE:- This model's main purpose is to detect if the transaction made by the person was legit or was a fraud transactions.
 
-TECHNOLOGIES: Python, Pandas, Sklearn.
+TECHNOLOGIES: Python, Numpy, Pandas, Sklearn.
 
 WORKING:- This works on Logistic regression which is a supervised learning algorithm used to predict the probability of a binary outcome (1/0, Yes/No, True/False) based on one or more predictor variables.
 
+LEARNING OUTCOMES:- 
+1. Learned about Logistic Regresion in Machine Learning and its application.
+2. Improved my understanding of data manipulation using Pandas.
+3. Improved my data manipulation and data cleansing.
+
+# Sales Prediction Model
+PURPOSE:- This model predicts the sales of a company in the upcoming years by taking out attributes from the previous years sales.
+
+TECHNOLOGIES: Python, Pandas, Sklearn, Numpy, Matplot, Seaborn.
+
+WORKING:- XGBRegressor uses gradient boosting, which builds an ensemble of decision trees sequentially. Each tree is trained to correct the errors made by the previous trees, thereby improving the model's performance iteratively.
+
+LEARNING OUTCOMES:- 
+1. Learned about Linear Dicison tree.
+2. Improved my understanding of data manipulation using Pandas.
+3. Improved my data manipulation and data cleansing.
+4. Used data visualization to understand the data.

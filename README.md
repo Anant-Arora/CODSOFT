@@ -3,6 +3,8 @@ Welcome to my GitHub page showcasing the projects I developed during my internsh
 #Projects Overview
 # Credit Card Fraud Detection
 PURPOSE:- This model's main purpose is to detect if the transaction made by the person was legit or was a fraud transactions.
+
 TECHNOLOGIES: Python, Pandas, Sklearn.
+
 WORKING:- This works on Logistic regression which is a supervised learning algorithm used to predict the probability of a binary outcome (1/0, Yes/No, True/False) based on one or more predictor variables.
 

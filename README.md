@@ -25,3 +25,16 @@ LEARNING OUTCOMES:-
 2. Improved my understanding of data manipulation using Pandas.
 3. Improved my data manipulation and data cleansing.
 4. Used data visualization to understand the data.
+   
+# Iris Flower Prediction
+Purpose: This model's main aim is to classify the type of Flower by using the provived data.
+
+TECHNOLOGIES: Python, Numpy, Pandas, Sklearn.
+
+WORKING:- This works on Logistic KNeighborsClassifier by using the four parametters of the flower such as; length of petal, size, colour etc. The model can classify it in three types of flower.
+
+LEARNING OUTCOMES:- 
+1. Learned about KKNeighborsClassifier in sklearn
+2. Worked on a biger set of data and trained a model with big data.
+3. Applicable in real world cases.
+
